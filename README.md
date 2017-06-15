@@ -1,14 +1,6 @@
 
 #### UIButton Programmatically ####
 
-
-//
-//  ViewController.swift
-//  UIButtonProgrammatically
-//
-//  Created by Rajesh Kommana on 15/6/17.
-//  Copyright © 2017 Rajesh Kommana. All rights reserved.
-//
 import UIKit
 
 class ViewController: UIViewController {
